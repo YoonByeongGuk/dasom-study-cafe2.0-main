@@ -54,5 +54,5 @@ jobs:
           aws s3 cp \
             --recursive \
             --region ap-northeast-2 \
-            build s3://my-test-bucket-13129uahd21
+            build s3://my-bucket-test-121h02ab2
             
